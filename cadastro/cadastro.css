@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+body {
+    background-image: url('../assets/papel\ 1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #333;
+    font-family: "Cabin", sans-serif;
+    font-weight: 200;
+    font-size: 25px;
+    padding: 50px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}

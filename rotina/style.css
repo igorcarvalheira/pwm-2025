@@ -22,40 +22,40 @@ body {
         font-size: 50px;
     }
 
-    p { /* Para mudar o tamanho da fonte e o espaçamento o texto */
+    p {
         font-size: 25px;
         padding: 50px;
         text-align: center;
     }
 
-    #citacao { /* Somente para mudar o tamanho da fonte da citação */
+    #citacao {
         font-size: 20px;
     }
 
 
     }
     
-    img, video { /* Para espaçar e separar a foto e o vídeo */
+    img, video {
         display: block;
         margin: 100px auto;
         margin-bottom: 20px;
     }
     
-    video { /* Para arredondar as bordas do player do vídeo */
+    video {
         border-radius: 15px;
     }
     
-    img { /* Para deixar a foto redonda */
+    img {
         border-radius: 50%;
     }
 
-    .centro { /* Para centrarlizar o hyperlink do contato */
+    .centro {
         display: block;
         margin: 0 auto;
         text-align: center;
     }
 
-    a { /* Para mudar o tamanho da fonte e o espaçamento do hyperlink contato */
+    a {
         font-size: 24px;
         padding: 100px 20px;
         margin-bottom: 20px;
