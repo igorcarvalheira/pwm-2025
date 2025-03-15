@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../assets/papel\ 1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #333;
+    font-family: "Cabin", sans-serif;
+    font-weight: 200;
+    
+    header h1 {
+        width: 80%;
+        margin: 0 auto;
+        text-align: center;
+        padding: 30px;
+        font-size: 50px;
+    }
+
+    p { /* Para mudar o tamanho da fonte e o espaçamento o texto */
+        font-size: 25px;
+        padding: 50px;
+        text-align: center;
+    }
+
+    #citacao { /* Somente para mudar o tamanho da fonte da citação */
+        font-size: 20px;
+    }
+
+
+    }
+    
+    img, video { /* Para espaçar e separar a foto e o vídeo */
+        display: block;
+        margin: 100px auto;
+        margin-bottom: 20px;
+    }
+    
+    video { /* Para arredondar as bordas do player do vídeo */
+        border-radius: 15px;
+    }
+    
+    img { /* Para deixar a foto redonda */
+        border-radius: 50%;
+    }
+
+    .centro { /* Para centrarlizar o hyperlink do contato */
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    a { /* Para mudar o tamanho da fonte e o espaçamento do hyperlink contato */
+        font-size: 24px;
+        padding: 100px 20px;
+        margin-bottom: 20px;
+    }
