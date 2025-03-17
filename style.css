@@ -23,6 +23,10 @@ body {
     .menu a {
         display: inline-block;
         margin: 10px;
+<<<<<<< HEAD
         color:#333;
+=======
+        color:#333;
+>>>>>>> ddbbc5c7f5ac5776207d3ce9a85ffd88e9208556
     }
 }
